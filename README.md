@@ -1,6 +1,6 @@
 
 # React Cheat Sheet
-[react-cheatsheet](https://66142b6233533708932d7ad7--taupe-truffle-4e057f.netlify.app/)
+[React-cheatsheet](https://66142b6233533708932d7ad7--taupe-truffle-4e057f.netlify.app/)
 
 Welcome to the React Cheat Sheet project! This project serves as a reference guide for commonly used React syntax, concepts, and techniques. It is designed to help developers quickly find and understand React-related information.
 
