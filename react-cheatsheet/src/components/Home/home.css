@@ -1,0 +1,66 @@
+
+body{
+  background-color: #F5E8DD;
+}
+.markdown-content {
+  color: #333;
+  height: 83vh;
+  padding: 5px;
+  margin-bottom: 90px; 
+}
+
+/* CSS styles for code blocks */
+.code-block-container {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+}
+
+.code-block {
+  flex: 1; /* Take up remaining space */
+  margin-right: 8px;
+  /* background-color: #f4f4f4; */
+  /* border: 1px solid #ccc; */
+  border-radius: 5px;
+  padding: 10px;
+  position: relative; 
+
+}
+.markdown-content>
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 20px; 
+  font-weight: 900;
+  font-size: 30px;
+}
+
+
+.markdown-content>p {
+  margin-bottom: 20px;
+}
+.copy-button  {
+  width: 12px;
+  top: -150% !important;
+  /* background-color: #fafafa; */
+  color: rgb(38, 5, 158);
+  border: none;
+  padding: 20px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* .copy-button:hover {
+  font-size: 900;
+} */
+
+.copy-button:focus {
+  outline: none;
+}
+
+/* .copy-button:active {
+  background-color: #3e8e41;
+} */
